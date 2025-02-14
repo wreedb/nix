@@ -29,7 +29,6 @@
         pinfo less most ov
         bat bat-extras.batman
         ripgrep fd sd eza
-        gnu-shepherd
         
         # fetch/cli fun
         fastfetch fetch-scm macchina

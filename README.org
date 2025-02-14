@@ -1,9 +1,7 @@
 #+AUTHOR: Will Reed
 #+DESCRIPTION: My Nix flake
 
-I only use Nix on my laptop, therefore this configuration is specific to my laptop; however the auto-generated
-~hardware-configuration.nix~ is omitted from the repo, seeing as it isn't going to be useful for anyone else.
-
+I only use Nix on my laptop, therefore this configuration is specific to my laptop
 If you have any questions/suggestions, my contact information is below.
 
 *** Contact Info
