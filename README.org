@@ -1,0 +1,13 @@
+#+AUTHOR: Will Reed
+#+DESCRIPTION: My Nix flake
+
+I only use Nix on my laptop, therefore this configuration is specific to my laptop; however the auto-generated
+~hardware-configuration.nix~ is omitted from the repo, seeing as it isn't going to be useful for anyone else.
+
+If you have any questions/suggestions, my contact information is below.
+
+*** Contact Info
+Email: [[mailto:wreed@programmer.net][wreedb@programmer.net]]
+
+*** License
+This repository is licensed under the BSD 2-Clause "Simplified" license (SPDX: [[https://spdx.org/licenses/BSD-2-Clause.html][BSD-2-CLAUSE]]), the included file is [[file:./LICENSE][here]].

@@ -1,3 +1,1 @@
-hardware-configuration.nix
-auto-generated.nix
-location.nix
+modules/autogen.nix
