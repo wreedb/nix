@@ -1,1 +1,0 @@
-{ config = { allowBroken = true; allowUnfree = true; }; }
