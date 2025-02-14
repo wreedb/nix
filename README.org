@@ -7,7 +7,7 @@ I only use Nix on my laptop, therefore this configuration is specific to my lapt
 If you have any questions/suggestions, my contact information is below.
 
 *** Contact Info
-Email: [[mailto:wreed@programmer.net][wreedb@programmer.net]]
+Email: [[mailto:wreed@programmer.net][wreed@programmer.net]]
 
 *** License
 This repository is licensed under the BSD 2-Clause "Simplified" license (SPDX: [[https://spdx.org/licenses/BSD-2-Clause.html][BSD-2-CLAUSE]]), the included file is [[file:./LICENSE][here]].
