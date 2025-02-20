@@ -2,6 +2,9 @@
 
 {
     environment.systemPackages = with pkgs; [
+        # desktop utils
+        hyprlock libnotify
+
         # shell utils
         bash fish zsh gash dash
         starship zoxide
@@ -16,9 +19,11 @@
 
         # terminal emulators
         kitty wezterm ghostty alacritty
+        foot
 
         # compression
         lzop bzip2 bzip3 pigz xz zstd brotli
+        unzip libarchive bsdiff cpio
         
         # system utils
         coreutils-full moreutils
@@ -28,13 +33,15 @@
         socat caligula
         pinfo less most ov
         bat bat-extras.batman
-        ripgrep fd sd eza
+        ripgrep fd sd eza stow
         
         # fetch/cli fun
         fastfetch fetch-scm macchina
         ufetch ugm
 
         # misc devtools
+        gnumake gettext libtool colormake libbsd
+        cmake meson ninja
         tree-sitter mercurial pandoc
         glow gum getopt getoptions
         imagemagick inkscape jq yq-go

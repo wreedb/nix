@@ -9,6 +9,10 @@
         inputs.gBar.defaultPackage.x86_64-linux
     ];
 
+    services = {
+        dunst.enable = true;
+    };
+
     manual.manpages.enable = true;
     news.display = "silent";
     home.stateVersion = "25.05";

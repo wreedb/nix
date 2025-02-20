@@ -8,7 +8,12 @@
         localBinInPath = true;
         enableAllTerminfo = true;
 
-        pathsToLink = [ "/share" "/share/fish" "/" ];
+        pathsToLink = [
+            "/share"
+            "/share/fish"
+            "/share/ghostty"
+            "/"
+        ];
     
     };
 }
